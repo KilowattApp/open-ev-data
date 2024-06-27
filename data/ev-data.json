@@ -17930,47 +17930,47 @@
         "ports": [
           "ccs"
         ],
-        "max_power": 100.0,
+        "max_power": 175.0,
         "charging_curve": [
           {
-            "percentage": 50,
-            "power": 0.0
+            "percentage": 0,
+            "power": 50.0
           },
           {
-            "percentage": 74,
-            "power": 1.0
+            "percentage": 1,
+            "power": 74.0
           },
           {
-            "percentage": 99,
-            "power": 2.0
+            "percentage": 2,
+            "power": 99.0
           },
           {
-            "percentage": 123,
-            "power": 3.0
+            "percentage": 3,
+            "power": 123.0
           },
           {
-            "percentage": 148,
-            "power": 4.0
+            "percentage": 4,
+            "power": 148.0
           },
           {
-            "percentage": 172,
-            "power": 5.0
+            "percentage": 5,
+            "power": 172.0
           },
           {
-            "percentage": 172,
-            "power": 70.0
+            "percentage": 70,
+            "power": 172.0
           },
           {
-            "percentage": 63,
-            "power": 80.0
+            "percentage": 80,
+            "power": 63.0
           },
           {
-            "percentage": 63,
-            "power": 90.0
+            "percentage": 90,
+            "power": 63.0
           },
           {
-            "percentage": 38,
-            "power": 100.0
+            "percentage": 100,
+            "power": 38.0
           }
         ],
         "is_default_charging_curve": false
